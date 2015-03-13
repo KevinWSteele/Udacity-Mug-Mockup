@@ -1,0 +1,36 @@
+/* Enter your custom CSS here */
+
+/*header 1 - the gray main title of the page*/
+h1 {
+    color: #666;
+    font: 350% Verdana, sans-serif;
+    margin-top: 45px;
+    letter-spacing: -1px;
+}
+/*orange titles -"Main Features" + "A Good Way to Start the Day*/
+h2{
+    color: #f07c17;
+    font: bold 24px Verdana, sans-serif;
+    margin-bottom: 23px;
+}
+/*dark gray paragraph text*/
+p {
+    color:#666;
+    font: 115%/2em Verdana, sans-serif;
+}
+/*dark gray list under "Main Features"*/
+li {
+    color:#666;
+    font: 115% Verdana, sans-serif;
+    margin-top: 20px;
+}
+/*box for "Main Features"*/
+.features {
+    margin-top: 28px;
+    padding: 10px 30px 34px;
+    border: 1px solid #ccc;
+}
+/*Mug image*/
+.udimage {
+    margin-top: 15px;
+}
